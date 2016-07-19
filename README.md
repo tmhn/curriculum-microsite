@@ -1,6 +1,6 @@
 # Sparta Curriculum Microsite
 
-Just a simple little vanilla HTML/CSS site showing the Sparta Curriculum.
+Just a simple little vanilla HTML/CSS site showing the Sparta Curriculum. It's available at https://spartaglobal.github.io/curriculum-microsite/.
 
 ### Printing
 
