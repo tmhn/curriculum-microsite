@@ -1,0 +1,12 @@
+{
+  "name": "curriculum-microsite",
+  "version": "1.0.0",
+  "description": "Sparta Global Curriculum Microsite",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"There are no tests for this project\" && exit 1"
+  },
+  "author": "Danny Smith"
+}
