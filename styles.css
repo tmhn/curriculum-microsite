@@ -137,10 +137,18 @@ td li {margin-bottom: .3em;}
   .page-header h1 {font-size: 2em !important;}
 
   /* Tables */
-  table, th, td, tr {border-color: #888 !important;}
+  table, tbody, th, td, tr {
+    border-color: #888 !important;
+    position: relative !important;
+  }
   table, td, tr, .exercise {color: black !important;}
-  thead {display: table-header-group !important;}
-  tr, img {page-break-inside: avoid;}
+  thead {
+    display: table-header-group !important;
+  }
+  tr, img {
+    position: relative;
+    page-break-inside: avoid;
+  }
   th {
     background-color: #888 !important;
     color: white !important;
@@ -149,7 +157,10 @@ td li {margin-bottom: .3em;}
   /* Other Print Styles */
   a, a:visited {text-decoration: underline !important;}
   img {max-width: 100% !important;}
-  h2, h3 {page-break-after: avoid;}
+  h2, h3 {
+    position: relative !important;
+    page-break-after: avoid;
+  }
   p, h2, h3 {
       orphans: 3;
       widows: 3;
