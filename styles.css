@@ -94,11 +94,13 @@ td li {margin-bottom: .3em;}
 #rubySDET table {border-color: #E25A59;}
 #testing table {border-color: #57A989;}
 #javascriptEngineer table {border-color:#EF7F4E;}
+#pmoCourse table {border-color:#F1C447;}
 
 #core .pure-table th {background: #AE7AAE; border-color: #A366A5;}
 #rubySDET .pure-table th {background: #EC6964; border-color: #E25A59;}
 #testing .pure-table th {background: #6CBE9D; border-color: #57A989;}
 #javascriptEngineer .pure-table th {background: #F2905E; border-color:#EF7F4E;}
+#pmoCourse .pure-table th {background: #F1C447; border-color:#F1C447;}
 
 
 /* A bit nicer on small screens */
